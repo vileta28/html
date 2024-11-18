@@ -32,10 +32,9 @@ p {
     font-style: normal;
     padding: 0;
     margin: 15px 30px;
+    text-indent 35px;
 }
 a{
     text-decoration: none;
     color: red;
-    margin: 15px 30px;
-    padding: 0;
 }
